@@ -5,4 +5,4 @@ Censored data are common in the field of Biostatistics, since patients who survi
 I investigated how censoring unbiased regression trees and censoring unbiased regression ensembles can help improve the prediction accuracy of the number of surviving patients using censored data, compared to the default random forest methods as we know, which were originally introduced by Leo Breiman.      
 
 Please refer to **STAT 437 final report** uploaded in this repository for more information.  
-I used R since R is commonly used in Biostatistics articles for their findings.    
+I used R since R is commonly used in the field of Biostatistics.   
